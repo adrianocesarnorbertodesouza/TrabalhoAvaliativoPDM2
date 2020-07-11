@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491849663264",
+    "firebase_url": "https://trabalhoavaliativopdm-e7233.firebaseio.com",
+    "project_id": "trabalhoavaliativopdm-e7233",
+    "storage_bucket": "trabalhoavaliativopdm-e7233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491849663264:android:b37a3360d06afcff964d45",
+        "android_client_info": {
+          "package_name": "com.example.newprojetopratico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491849663264-rmfg3eailpb5g6de6ktsm1vbje2af13j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5RnU-NRkD8OaiheKc-rY97VeyftpTu5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491849663264-rmfg3eailpb5g6de6ktsm1vbje2af13j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
